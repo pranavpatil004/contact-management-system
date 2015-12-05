@@ -7,7 +7,7 @@
 #include<stdlib.h>
 
 #include<dos.h>
-
+ufgdfugufgurgu
 struct contact
 
 {
